@@ -1,0 +1,6 @@
+canvas{
+    border: 5px solid green;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 20px;
+    margin-top: 50px;
+}
